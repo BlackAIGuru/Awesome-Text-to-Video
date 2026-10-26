@@ -52,6 +52,7 @@ Here, we discuss some of the best AI-powered text-to-video tools that will make 
 
 ## Text To Video Generators
 
+- [Ideoy](https://ideoy.ai) - Remake this week's meme videos with one selfie (AI image-to-video, freemium, adults only).
 ### [DeepBrain AI](https://www.deepbrain.io/)
 
 <div align="center">
